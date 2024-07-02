@@ -10,3 +10,6 @@ A simple module that adds a master cookie to your website containing a unique Us
 - Unique (UUID)
 - Compatible with Prestashop 8.0
 
+# How to use it ?
+
+![screenshot](https://i.gyazo.com/affefb2dc7d0870cb8df58613baad7fb.png)
